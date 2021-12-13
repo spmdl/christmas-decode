@@ -45,7 +45,7 @@ form {
   right: 0;
   width: 0;
   height: 0;
-  background-image: url('../images/cat.jpg');
+  background-image: url('./images/cat.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size:cover;
